@@ -8,4 +8,4 @@
 - username: "账号"
   password: "密码"
 ```
-# Power BY [小幻博客](https://52xhuan.cn)
+# Power BY [留学生论文代写](https://www.wuyoudaixie.com)
